@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreGraphQL", "CoreGraphQL\CoreGraphQL.csproj", "{31FF6FE9-923A-47CC-B66C-6442B56AFCF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31FF6FE9-923A-47CC-B66C-6442B56AFCF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31FF6FE9-923A-47CC-B66C-6442B56AFCF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31FF6FE9-923A-47CC-B66C-6442B56AFCF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31FF6FE9-923A-47CC-B66C-6442B56AFCF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D41AE932-E5F9-4ACB-9722-FC0F79C7565B}
+	EndGlobalSection
+EndGlobal
